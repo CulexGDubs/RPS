@@ -1,0 +1,16 @@
+C:\Users\Dan\Desktop\RPSf\rps\bin\Debug\net5.0\rps.exe
+C:\Users\Dan\Desktop\RPSf\rps\bin\Debug\net5.0\rps.deps.json
+C:\Users\Dan\Desktop\RPSf\rps\bin\Debug\net5.0\rps.runtimeconfig.json
+C:\Users\Dan\Desktop\RPSf\rps\bin\Debug\net5.0\rps.runtimeconfig.dev.json
+C:\Users\Dan\Desktop\RPSf\rps\bin\Debug\net5.0\rps.dll
+C:\Users\Dan\Desktop\RPSf\rps\bin\Debug\net5.0\ref\rps.dll
+C:\Users\Dan\Desktop\RPSf\rps\bin\Debug\net5.0\rps.pdb
+C:\Users\Dan\Desktop\RPSf\rps\obj\Debug\net5.0\rps.csproj.AssemblyReference.cache
+C:\Users\Dan\Desktop\RPSf\rps\obj\Debug\net5.0\rps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Desktop\RPSf\rps\obj\Debug\net5.0\rps.AssemblyInfoInputs.cache
+C:\Users\Dan\Desktop\RPSf\rps\obj\Debug\net5.0\rps.AssemblyInfo.cs
+C:\Users\Dan\Desktop\RPSf\rps\obj\Debug\net5.0\rps.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\RPSf\rps\obj\Debug\net5.0\rps.dll
+C:\Users\Dan\Desktop\RPSf\rps\obj\Debug\net5.0\ref\rps.dll
+C:\Users\Dan\Desktop\RPSf\rps\obj\Debug\net5.0\rps.pdb
+C:\Users\Dan\Desktop\RPSf\rps\obj\Debug\net5.0\rps.genruntimeconfig.cache
